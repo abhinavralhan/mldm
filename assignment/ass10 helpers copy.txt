@@ -1,0 +1,7 @@
+https://www.analyticsvidhya.com/blog/2021/03/binary-cross-entropy-log-loss-for-binary-classification/
+
+https://www.youtube.com/watch?v=djX4sqkGSFA
+
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+
+https://nptel.ac.in/content/storage2/courses/106106139/Assignments/Solution5.pdf

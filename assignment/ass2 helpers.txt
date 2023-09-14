@@ -1,0 +1,15 @@
+https://textbooks.math.gatech.edu/ila/orthogonal-complements.html
+
+https://www.mathsisfun.com/algebra/vectors-cross-product.html
+
+http://sites.science.oregonstate.edu/math/home/programs/undergrad/CalculusQuestStudyGuides/vcalc/crossprod/crossprod.html
+
+https://medium.com/analytics-vidhya/mae-mse-rmse-coefficient-of-determination-adjusted-r-squared-which-metric-is-better-cd0326a5697e
+
+https://machinelearningmastery.com/distance-measures-for-machine-learning/#:~:text=Manhattan%20distance%20is%20calculated%20as,differences%20between%20the%20two%20vectors.&text=The%20Manhattan%20distance%20is%20related,and%20mean%20absolute%20error%20metric.
+
+https://stats.stackexchange.com/questions/7912/mahalanobis-distance-between-two-bivariate-distributions-with-different-covarian
+
+https://ai.stackexchange.com/questions/22307/why-are-decision-trees-and-random-forests-scale-invariant
+
+https://www.rapidtables.com/math/algebra/logarithm/Logarithm_Rules.html

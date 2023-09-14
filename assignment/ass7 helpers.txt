@@ -1,0 +1,17 @@
+https://www.ibm.com/topics/bagging
+
+https://www.ics.uci.edu/~rickl/courses/cs-171/cs171-old-tests/2012-fq-cs171-old-tests/2012-fq-cs-171-final-exam-key.pdf
+
+https://www.featureranking.com/tutorials/machine-learning-tutorials/information-gain-computation/
+
+https://en.wikipedia.org/wiki/Generalization_error
+
+https://en.wikipedia.org/wiki/Random_forest
+
+https://github.com/JunWorks/ML-Algorithm-with-Python/blob/master/decision_tree/decision_tree.ipynb
+
+https://www.youtube.com/watch?v=cLWZVinpAu0
+
+https://www.youtube.com/watch?v=J5-yt9qYdLU&list=PLBv09BD7ez_4_UoYeGrzvqveIR_USBEKD&index=7
+
+https://www.youtube.com/watch?v=eKD5gxPPeY0
